@@ -1,3 +1,5 @@
 Name:Ihor
 University: PJWSTK
 Student ID: 37323
+Git reset practice
+Hello from my branch
